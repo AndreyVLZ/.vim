@@ -1,3 +1,6 @@
 [submodule "pack/myPlugins/start/vim-go"]
 	path = pack/myPlugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "/home/andrey/.vim/pack/myPlugins/start/gruvbox"]
+	path = /home/andrey/.vim/pack/myPlugins/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
